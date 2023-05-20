@@ -13,12 +13,12 @@ ________________________________________________________________________________
 
 - 📫 How to reach me **miss.trejooo@gmail.com**
 </p>
-### Languages:
+<h2 align="left"> LANGUAJES : </h2>
 <p>
 <h5 align="left"> English: B1✔️</h5> 
 <h5 align="left"> Spanish: ✔️✔️</h5>
 </p>
-### Tools :
+<h2 align="left">TOOLS :</h2>
 <p>
 <h3 align="left">Languages and Tools:</h3>
 </p>
