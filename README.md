@@ -1,6 +1,5 @@
-### HI , MY NAME IS MARGARITA 
-
-![sip](https://github.com/miaugarita/MIAUGARITA/assets/134168921/8e65e4c2-8211-4871-aad7-9410c454580a)
+### HI , my name es Margarita Trejo
+![LOGO](https://github.com/miaugarita/MIAUGARITA/assets/134168921/24e673db-dac0-4bc4-b102-8d6fa6c4a949)
 
 <p align="center" justify-content= flex-end;>
 __________________________________________________________________________________________
