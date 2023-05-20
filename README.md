@@ -1,5 +1,7 @@
- <p align="center" justify-content= flex-end;>
-![img](https://github.com/miaugarita/MIAUGARITA/assets/134168921/4a8da0c6-aea2-4652-bebc-9f941e4447d7) height="300px" 
+### HI , MY NAME IS MARGARITA 
+![image](https://github.com/miaugarita/MIAUGARITA/assets/134168921/0b017d21-86fc-4263-84c7-0b2253500f9e)
+
+<p align="center" justify-content= flex-end;>
 __________________________________________________________________________________________
 <h3 align="center">A passionate <b>frontend</b> developer from Mexico</h3>
 <p align="left" height="200px" display= "flex">
