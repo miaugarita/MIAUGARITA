@@ -1,6 +1,6 @@
 ### Hi ✌️, I'm Margarita
 __________________________________________________________________________________________
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate <b>frontend</b> developer from Mexico</h3>
 - 🎨🖌 I LIKE TO DESIGN WAREFRAMES & LAYOUTS
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/M4rgatita](https://gitlab.com/M4rgatita)
