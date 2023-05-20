@@ -1,5 +1,6 @@
 ### HI , MY NAME IS MARGARITA 
-![image](https://github.com/miaugarita/MIAUGARITA/assets/134168921/0b017d21-86fc-4263-84c7-0b2253500f9e)
+
+![sip](https://github.com/miaugarita/MIAUGARITA/assets/134168921/8e65e4c2-8211-4871-aad7-9410c454580a)
 
 <p align="center" justify-content= flex-end;>
 __________________________________________________________________________________________
