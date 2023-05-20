@@ -1,9 +1,11 @@
 ### HI , my name es Margarita Trejo
-![LOGO](https://github.com/miaugarita/MIAUGARITA/assets/134168921/24e673db-dac0-4bc4-b102-8d6fa6c4a949)
+![LOGO](https://github.com/miaugarita/MIAUGARITA/assets/134168921/565e5cff-e769-478e-b179-1e133065c62b)
+
 
 <p align="center" justify-content= flex-end;>
 __________________________________________________________________________________________
 <h3 align="center">A passionate <b>frontend</b> developer from Mexico</h3>
+
 <p align="left" height="200px" display= "flex">
 - 🎨🖌 I LIKE TO DESIGN WAREFRAMES & LAYOUTS
 
