@@ -17,6 +17,7 @@ ________________________________________________________________________________
 <p>
 <h5 align="left"> English: B1✔️</h5> 
 <h5 align="left"> Spanish: ✔️✔️</h5>
+</p>
 ### Tools :
 <p>
 <h3 align="left">Languages and Tools:</h3>
