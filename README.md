@@ -1,6 +1,6 @@
-### Hi! Im Margarita 👋
-🌱 I’m currently learning MOVIL DEVELOP
- I LIKE TO DESIGN WAREFRAMES
+### Hi! my name is Margarita 👋🤩
+-🌱 I’m currently learning MOVIL DEVELOP
+- 🎨🖌 I LIKE TO DESIGN WAREFRAMES % LAYOUTS
  ![image](https://github.com/miaugarita/MIAUGARITA/assets/134168921/e8228c77-d761-4e85-8910-1df53c1cebcd)
 
 
