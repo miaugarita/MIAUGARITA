@@ -1,4 +1,4 @@
-### HI , my name es Margarita Trejo
+### HI ✌️, my name es Margarita Trejo
 ![LOGO](https://github.com/miaugarita/MIAUGARITA/assets/134168921/565e5cff-e769-478e-b179-1e133065c62b)
 
 
@@ -7,7 +7,7 @@ ________________________________________________________________________________
 <h3 align="center">A passionate <b>frontend</b> developer from Mexico</h3>
 
 <p align="left" height="200px" display= "flex">
-- 🎨🖌 I LIKE TO DESIGN WAREFRAMES & LAYOUTS
+- 🎨🖌 I LIKE TO DESIGN WAREFRAMES & LAYOUTS 💕 💕
 
 - 👨‍💻 All of my projects are available at [https://gitlab.com/M4rgatita](https://gitlab.com/M4rgatita)
 
