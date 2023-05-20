@@ -1,4 +1,5 @@
-###Hi ✌️, I'm Margarita
+### Hi ✌️, I'm Margarita
+
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 - 🎨🖌 I LIKE TO DESIGN WAREFRAMES & LAYOUTS
 
