@@ -1,6 +1,5 @@
  <p align="center" justify-content= flex-end;>
-<img  src=![sip](https://github.com/miaugarita/MIAUGARITA/assets/134168921/4a8da0c6-aea2-4652-bebc-9f941e4447d7) height="300px" >
-</p>
+![img](https://github.com/miaugarita/MIAUGARITA/assets/134168921/4a8da0c6-aea2-4652-bebc-9f941e4447d7) height="300px" 
 __________________________________________________________________________________________
 <h3 align="center">A passionate <b>frontend</b> developer from Mexico</h3>
 <p align="left" height="200px" display= "flex">
