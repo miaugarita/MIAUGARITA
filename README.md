@@ -1,4 +1,4 @@
-### HI ✌️, my name es Margarita Trejo
+### HI ✌️, my name is Margarita Trejo
 ![LOGO](https://github.com/miaugarita/MIAUGARITA/assets/134168921/565e5cff-e769-478e-b179-1e133065c62b)
 
 
